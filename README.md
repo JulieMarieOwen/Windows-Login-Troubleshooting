@@ -9,7 +9,7 @@ If you could help me out with this pronto, that would be awesome.
 
 The user reset their password and cannot remember what it is.
 I logged into the admin account and went to control panel > User Accounts > User Accounts > Manage Another Account
-Chose the Learner01 account, chose Change Password and reset the password to the default “perscholas”
+and chose the Learner01 account, chose Change Password and reset the password to the default “perscholas”
 
 <h2>Resolution</h2>
 
